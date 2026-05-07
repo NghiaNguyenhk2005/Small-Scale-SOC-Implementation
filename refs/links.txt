@@ -1,0 +1,5 @@
+Wazuh Documentation: https://documentation.wazuh.com (Cơ sở cấu hình chính).
+
+MITRE ATT&CK Framework: https://attack.mitre.org (Tham chiếu mã kỹ thuật T1110).
+
+Microsoft Netsh Documentation: Hướng dẫn cấu hình Portproxy cho WSL2.

